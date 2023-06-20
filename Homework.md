@@ -48,4 +48,4 @@
 5. Сделайте коммит и пуш.
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-[links]()
+[links](https://github.com/Redcorprus/7.5-Git-homework-gitlab-hw/network)
