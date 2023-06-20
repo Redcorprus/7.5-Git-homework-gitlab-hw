@@ -1,2 +1,2 @@
 echo "have a nice day"
-new commit
+echo "new commit"
