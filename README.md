@@ -69,7 +69,7 @@
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 
-[links](https://github.com/Redcorprus/7.5-Git-homework-gitlab-hw/commit/69a799d99a6b5a3ded8b6826780747578ee7e033)
+[links](https://github.com/Redcorprus/7.5-Git-homework-gitlab-hw/commit/66e3a3c994acfb33a6d4ff63014626f9c500d14a)
 ---
 
 ### Задание 3
